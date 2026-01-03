@@ -748,6 +748,31 @@
         "backgroundColor": null,
         "backgroundImage": null
     },
+    "onBoardingConfig": {
+        "enableOnBoarding": true,
+        "version": 2,
+        "data": [
+            {
+                "title": "مرحباً بك في مجلة جيمزاوي",
+                "desc": "جميع أخبار الألعاب في مكان واحد.",
+                "image": "https://raw.githubusercontent.com/fluxbuilder/images/main/2025/12/8740f580c56b/1765913840605.png"
+            },
+            {
+                "title": "لنبني عصراً جديداً من الأخبار",
+                "desc": "بعد تسجيل الدخول، يمكنك إضافة الألعاب أو طلب الألعاب التي تحبها.",
+                "image": "https://raw.githubusercontent.com/fluxbuilder/images/main/2025/12/8740f580c56b/1765913840605.png"
+            },
+            {
+                "title": "لنبدأ",
+                "desc": "لا مزيد من الانتظار، لنرى ما لدينا!",
+                "image": "assets/images/fogg-order-completed.png"
+            }
+        ],
+        "autoCropImageByDesign": true,
+        "isOnlyShowOnFirstTime": true,
+        "showLanguage": true,
+        "showLanguagePopup": true
+    },
     "overrideTranslation": {
         "blog": "المجلة",
         "@@locale": "ar"
